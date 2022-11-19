@@ -152,7 +152,7 @@ body {
 }
 
 ::-moz-selection {
-  background: #ffd400;
+  background: #000000;
   color: #fff !important;
 }
 
