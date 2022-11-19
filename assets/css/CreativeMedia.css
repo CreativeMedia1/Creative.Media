@@ -147,12 +147,12 @@ body {
 }
 
 ::selection {
-  background: #ffd400;
+  background: #B0FFF7;
   color: #fff !important;
 }
 
 ::-moz-selection {
-  background: #000000;
+  background: #B0FFF7;
   color: #fff !important;
 }
 
